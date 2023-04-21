@@ -20,7 +20,7 @@
     "test": "jest --coverage src/**/*"
   },
   "dependencies": {
-    "tripletexjs": "^3.14.0"
+    "tripletexjs": "^3.15.0"
   },
   "devDependencies": {
     "@bjerk/eslint-config": "^2.0.1",
