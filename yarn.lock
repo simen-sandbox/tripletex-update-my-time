@@ -306,10 +306,10 @@
     eslint-plugin-promise "^6.0.0"
     eslint-plugin-unicorn "^43.0.1"
 
-"@cobraz/prettier@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@cobraz/prettier/-/prettier-2.0.0.tgz#4219ed6024e484a3e4e08ad30b2ba0f33660573e"
-  integrity sha512-3Kug2HKJPW96INaTFGtqPP5tJaMRwhZkA2e2mLQ7REp2Wzd0Brmg4uL94zAFKCPEmX59iUTZF0GAHtljACqwWA==
+"@cobraz/prettier@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@cobraz/prettier/-/prettier-2.0.2.tgz#a93767961044251085f268b9d5a5d24d7f75ef7f"
+  integrity sha512-n3+Q6U85S88owalT8KsxnP+LZUz9TGi5M27BqwiTxad/dMYzUmRMqDtfpVyWWNWO8ObjOasqujo3rJ96U4anVQ==
 
 "@cspotcode/source-map-support@^0.8.0":
   version "0.8.1"
